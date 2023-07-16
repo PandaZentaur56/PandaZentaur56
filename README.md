@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PandaZentaur56
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C# / Dotnet 6
-- 📫 You can reach me on Matrix: @pandazentaur56:matrix.org
+- 👀 I’m interested in programming, Servers and Cloud
+- 🌱 I’m currently coding C# / Dotnet 7
+- 📫 You can reach me via Mail: tm@pandazentaur56.de
